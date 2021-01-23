@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/secondrpro/static/css/main.56d5d11e.chunk.css",
+    "main.js": "/secondrpro/static/js/main.bdb2ff5f.chunk.js",
+    "main.js.map": "/secondrpro/static/js/main.bdb2ff5f.chunk.js.map",
+    "runtime-main.js": "/secondrpro/static/js/runtime-main.5e7934c2.js",
+    "runtime-main.js.map": "/secondrpro/static/js/runtime-main.5e7934c2.js.map",
+    "static/css/2.d65fdcc0.chunk.css": "/secondrpro/static/css/2.d65fdcc0.chunk.css",
+    "static/js/2.ba759f5f.chunk.js": "/secondrpro/static/js/2.ba759f5f.chunk.js",
+    "static/js/2.ba759f5f.chunk.js.map": "/secondrpro/static/js/2.ba759f5f.chunk.js.map",
+    "static/js/3.522d31eb.chunk.js": "/secondrpro/static/js/3.522d31eb.chunk.js",
+    "static/js/3.522d31eb.chunk.js.map": "/secondrpro/static/js/3.522d31eb.chunk.js.map",
+    "index.html": "/secondrpro/index.html",
+    "static/css/2.d65fdcc0.chunk.css.map": "/secondrpro/static/css/2.d65fdcc0.chunk.css.map",
+    "static/css/main.56d5d11e.chunk.css.map": "/secondrpro/static/css/main.56d5d11e.chunk.css.map",
+    "static/js/2.ba759f5f.chunk.js.LICENSE.txt": "/secondrpro/static/js/2.ba759f5f.chunk.js.LICENSE.txt",
+    "static/media/1.645506d9.jpeg": "/secondrpro/static/media/1.645506d9.jpeg",
+    "static/media/3.8eb85963.jpg": "/secondrpro/static/media/3.8eb85963.jpg",
+    "static/media/4.29610c90.jpg": "/secondrpro/static/media/4.29610c90.jpg",
+    "static/media/5.15577730.jpg": "/secondrpro/static/media/5.15577730.jpg",
+    "static/media/6.108899df.jpg": "/secondrpro/static/media/6.108899df.jpg",
+    "static/media/7.5cf8a3ca.jpg": "/secondrpro/static/media/7.5cf8a3ca.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e7934c2.js",
+    "static/css/2.d65fdcc0.chunk.css",
+    "static/js/2.ba759f5f.chunk.js",
+    "static/css/main.56d5d11e.chunk.css",
+    "static/js/main.bdb2ff5f.chunk.js"
+  ]
+}
